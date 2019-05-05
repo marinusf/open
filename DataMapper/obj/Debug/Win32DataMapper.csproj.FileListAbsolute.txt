@@ -1,0 +1,9 @@
+C:\myadvertisingprojects\Win32DataMapper\obj\Debug\Win32DataMapper.csprojAssemblyReference.cache
+C:\myadvertisingprojects\Win32DataMapper\obj\Debug\Win32DataMapper.csproj.CoreCompileInputs.cache
+C:\myadvertisingprojects\Win32DataMapper\bin\Debug\Win32DataMapper.dll
+C:\myadvertisingprojects\Win32DataMapper\bin\Debug\Win32DataMapper.pdb
+C:\myadvertisingprojects\Win32DataMapper\bin\Debug\GongShell.dll
+C:\myadvertisingprojects\Win32DataMapper\bin\Debug\Pervasive.Data.SqlClient.dll
+C:\myadvertisingprojects\Win32DataMapper\obj\Debug\Win32DataMapper.csproj.CopyComplete
+C:\myadvertisingprojects\Win32DataMapper\obj\Debug\Win32DataMapper.dll
+C:\myadvertisingprojects\Win32DataMapper\obj\Debug\Win32DataMapper.pdb
